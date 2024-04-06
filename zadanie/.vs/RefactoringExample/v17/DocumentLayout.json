@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\gigaheniekv2\\desktop\\kod\\zadanie\\legacyapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\gigaheniekv2\\desktop\\kod\\zadanie\\legacyapp\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|c:\\users\\gigaheniekv2\\desktop\\kod\\zadanie\\legacyapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72364726-3116-4019-A054-6E9AF98BB046}|LegacyApp\\LegacyApp.csproj|solutionrelative:legacyapp\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\UserService.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\UserService.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\UserService.cs",
+              "RelativeToolTip": "LegacyApp\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:14:42.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\ClientRepository.cs",
+              "RelativeToolTip": "LegacyApp\\ClientRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T18:02:34.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\User.cs",
+              "RelativeDocumentMoniker": "LegacyApp\\User.cs",
+              "ToolTip": "C:\\Users\\GigaHeniekV2\\Desktop\\kod\\zadanie\\LegacyApp\\User.cs",
+              "RelativeToolTip": "LegacyApp\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T17:56:10.43Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
